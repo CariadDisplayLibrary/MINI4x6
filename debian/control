@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: MINI4x6.h
-Description: 
+Description: MINI4x6 font for DisplayCore
