@@ -1,2 +1,4 @@
-MINI4x6.cpp libraries/DisplayCore/MINI4x6
-MINI4x6.h libraries/DisplayCore/MINI4x6
+library.json libraries/DisplayCore/MINI4x6
+library.properties libraries/DisplayCore/MINI4x6
+README.md libraries/DisplayCore/MINI4x6
+src libraries/DisplayCore/MINI4x6
