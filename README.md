@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::MINI4x6 
 
-![MINI4x6](https://raw.githubusercontent.com/DisplayCore/MINI4x6/master/Preview/MINI4x6.png)
+![MINI4x6](https://raw.githubusercontent.com/Cariad/MINI4x6/master/Preview/MINI4x6.png)
 
